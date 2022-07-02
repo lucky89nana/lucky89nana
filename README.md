@@ -1,8 +1,10 @@
 # Linna Li
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-:wave: Hey, I’m Jake (Jacob) Ernest Daurham, a software engineer based in Phoenix, Az. In short, I aim to solve problems.
-![Jessica’s GitHub stats](https://github-readme-stats.vercel.app/api?username=lucky89nana&show_icons=true&theme=radical)
+
+:wave: Hey, I’m Linna Li, a software engineer based in Bay area. In short, I aim to solve problems.
+![Linna’s GitHub stats](https://github-readme-stats.vercel.app/api?username=lucky89nana&show_icons=true&theme=radical)
 <!-- credits for the gif https://gph.is/g/ZWg5jr7 -->
+<img align=“right” height=“150" width=“210” src=“data.gif”>
 - :telescope: **I’m currently working on:** Full Stack App
 - :seedling: **I’m currently learning:** system design
 - :dancers: **I’m looking to collaborate on:** full stack projects
