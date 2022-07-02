@@ -7,7 +7,7 @@
 - :seedling: **I’m currently learning:** system design
 - :dancers: **I’m looking to collaborate on:** full stack projects
 - :speech_balloon: **Ask me about:** Javascript, memes, food, shiba inu
-- :zap: **Hobbies:** cooking, fitness, music, travel, shiba inu
+- :zap: **Hobbies:** cooking, fitness, music, travel
 - :smile: **Pronouns:** she/her
 - :mailbox: How to reach me **lilinna0809@gmail.com**
 - :zap: Fun fact **It makes me so happy when my front and back are connected! **
