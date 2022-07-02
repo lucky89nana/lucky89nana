@@ -7,7 +7,7 @@
 ## Portfolio Projects
 - [Project Verde](https://github.com/lucky89nana/Verde) (Front End)
 - [Atelier Systems Design](https://github.com/lucky89nana/Q-A) (Back End)
-- [Sweet Niblets](https://github.com/lucky89nana/Sweet-Niblets)) (Full Stack)
+- [Sweet Niblets](https://github.com/lucky89nana/Sweet-Niblets) (Full Stack)
 
 ## TECHNICAL SKILLS
 - Front End: JavaScript (ES5 and ES6) | React | React-Router-dom | HTML5 | CSS3 | JQuery | MUI | Socket.io
