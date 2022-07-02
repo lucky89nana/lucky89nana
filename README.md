@@ -26,4 +26,7 @@
 - Testing/Deployment: Jest | Supertest | Mocha | Chai | AWS: EC2 | Loader.io | K6 | NGINX
 - Developer Tools: Vim | Git | Npm | Webpack | Snowpack | Babel | Nodemon | Postman
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=javacript,html,css,react,nodejs,git,express,mysql,mongodb,postgres,aws)](https://skillicons.dev)
+<!-- <p><img align=“left” src=“https://github-readme-stats.vercel.app/api/top-langs?username=g3root&show_icons=true&locale=en&layout=compact” alt=“g3root” /></p>
+<p>&nbsp;<img align=“center” src=“https://github-readme-stats.vercel.app/api?username=g3root&show_icons=true&locale=en” alt=“g3root” /></p>
+<p><img align=“center” src=“https://github-readme-streak-stats.herokuapp.com/?user=g3root&” alt=“g3root” /></p> -->
