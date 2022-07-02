@@ -1,5 +1,6 @@
 # Linna Li
 :wave: Hey, I’m Linna Li, a software engineer based in Bay area. In short, I aim to solve problems.
+
 ![Linna’s GitHub stats](https://github-readme-stats.vercel.app/api?username=lucky89nana&show_icons=true&theme=radical)
 <!-- credits for the gif https://gph.is/g/ZWg5jr7 -->
 - :telescope: **I’m currently working on:** Full Stack App
