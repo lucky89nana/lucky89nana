@@ -15,19 +15,22 @@
 - :smile: **Pronouns:** she/her
 - :mailbox: How to reach me **lilinna0809@gmail.com**
 - :zap: Fun fact **It makes me so happy when my front and back are connected! **
+
 ## Contact Info
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/li-linna) 
+
 ## Portfolio Projects
-- [Project Verde](https://github.com/lucky89nana/Verde) (Front End)
 - [Atelier Systems Design](https://github.com/lucky89nana/Q-A) (Back End)
+- [Project Verde](https://github.com/lucky89nana/Verde) (Front End)
 - [Sweet Niblets](https://github.com/lucky89nana/Sweet-Niblets) (Full Stack)
-- [To the Moon](https://github.com/lucky89nana/To-the-Moon)(Full Stack)
+- [To the Moon](https://github.com/lucky89nana/To-the-Moon) (Full Stack)
 
 ## TECHNICAL SKILLS
 - Front End: JavaScript (ES5 and ES6) | React | React-Router-dom | HTML5 | CSS3 | JQuery | MUI | Socket.io
-- Back End: Node.js | Express | Axios | MongoDB | PostgreSQL | MySQL | RESTful API Development | onoff
+- Back End: Node.js | Express | Axios | MongoDB | PostgreSQL | MySQL | RESTful API Development 
 - Testing/Deployment: Jest | Supertest | Mocha | Chai | AWS: EC2 | Loader.io | K6 | NGINX
-- Developer Tools: Vim | Git | Npm | Webpack | Snowpack | Babel | Nodemon | Postman
+- Developer Tools: Vim | Git | Npm | Webpack | Snowpack | Babel | Nodemon | Postman | Vercel
+
 ## Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=javacript,html,css,react,nodejs,git,express,mysql,mongodb,postgres,aws)](https://skillicons.dev)
