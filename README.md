@@ -7,8 +7,8 @@
 <!-- credits for the gif https://gph.is/g/ZWg5jr7 -->
 - :telescope: **I’m currently working on:** Full Stack App
 - :seedling: **I’m currently learning:** system design
-- :dancers: **I’m looking to collaborate on:** full stack projects
-- :speech_balloon: **Ask me about:** Javascript, memes, food, shiba inu
+- :dancers: **I’m looking for:** job opportunities to continue growing my experience with the full stack
+- :speech_balloon: **Ask me about:** Javascript, food, optics 
 - :zap: **Hobbies:** cooking, fitness, music, travel
 - :smile: **Pronouns:** she/her
 - :mailbox: How to reach me **lilinna0809@gmail.com**
