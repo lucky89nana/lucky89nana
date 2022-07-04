@@ -25,7 +25,7 @@
 - [Sweet Niblets](https://github.com/lucky89nana/Sweet-Niblets) (Full Stack)
 - [To the Moon](https://github.com/lucky89nana/To-the-Moon) (Full Stack)
 
-## TECHNICAL SKILLS
+## Technical Skills
 - Front End: JavaScript (ES5 and ES6) | React | React-Router-dom | HTML5 | CSS3 | JQuery | MUI | Socket.io
 - Back End: Node.js | Express | Axios | MongoDB | PostgreSQL | MySQL | RESTful API Development 
 - Testing/Deployment: Jest | Supertest | Mocha | Chai | AWS: EC2 | Loader.io | K6 | NGINX
