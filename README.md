@@ -17,7 +17,9 @@
 - :zap: Fun fact **It makes me so happy when my front and back are connected! **
 
 ## Contact Info
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/li-linna) 
+[![LinkedIn](https://img.shields.io/badge/linnali-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/li-linna)](https://www.linkedin.com/in/li-linna)
+[![GitHub](https://img.shields.io/badge/linnali%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/lucky89nana)](https://github.com/lucky89nana)
+[![Gmail](https://img.shields.io/badge/linnali%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:lilinna0809@gmail.com)](mailto:lilinna0809@gmail.com)
 
 ## Portfolio Projects
 - [Atelier Systems Design](https://github.com/lucky89nana/Q-A) (Back End)
